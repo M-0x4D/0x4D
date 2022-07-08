@@ -1,0 +1,67 @@
+.navbar{
+    border-bottom: 5px rgb(46, 43, 226) solid;
+}
+
+header{
+     height: 100vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.822) , rgba(0, 0, 0, 0.788)) , url(../images/white2.png) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: black;
+
+    background-position: center;
+
+    background-size: 300px; 
+
+}
+
+/* .data{
+
+    background-image: linear-gradient(rgb(43, 226, 150) , rgb(208, 226, 43));
+} */
+
+
+body{
+    height: 100vh;
+    /* linear-gradient(rgba(0, 0, 0, 0.822) , rgba(0, 0, 0, 0.788)) , */
+    /* background-image: url(../images/black2.png) ; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color:black;
+    color: white;
+
+    background-position: center;
+    
+
+    background-size: auto;
+
+}
+
+.fake{
+
+    color: rgba(255, 0, 0, 0.384);
+}
+
+.father{
+    /* height: 100vh; */
+    background-image:linear-gradient(rgba(0, 0, 0, 0.822) , rgba(0, 0, 0, 0.788)) , url(../images/white2.png) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: black;
+
+    background-position: center;
+
+    background-size: 300px; 
+}
+
+.mother{
+    /* height: 100vh; */
+    background-image:linear-gradient(rgba(0, 0, 0, 0.822) , rgba(0, 0, 0, 0.788)) , url(../images/white2.png) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: black;
+
+    background-position: center;
+
+    background-size: 300px; 
+}
